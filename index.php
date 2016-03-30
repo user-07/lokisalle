@@ -12,10 +12,13 @@ require_once 'inc/header.inc.php';
 	//debug($_SESSION['utilisateur']);
 
 // Affichage de la page WEB :
+
+// presentation 
 ?>
 
 <main>
 	<section id="presentation">
+
 
 		<h2>Lokisalle</h2>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam eget mauris leo. Etiam scelerisque lectus vel justo tristique, a interdum odio feugiat. Vivamus hendrerit non mi sit amet ultrices. </p>
